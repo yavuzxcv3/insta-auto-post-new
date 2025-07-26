@@ -1,0 +1,4 @@
+instagrapi
+boto3
+python-dotenv
+python-dateutil
